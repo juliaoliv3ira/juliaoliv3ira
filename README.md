@@ -1,11 +1,15 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=ffe8f8"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=ffcde1"  />
 </div>
 
 ###
 
+<h1 align="center">𝑾𝒆𝒍𝒄𝒐𝒎𝒆</h1>
+
+###
+
 <div align="center">
-  <img height="234" src="https://media.tenor.com/Y003DHfhYLMAAAAi/hh.gif"  />
+  <img height="234" src="https://media.tenor.com/yiZGSn-Xo7kAAAAi/banana.gif"  />
 </div>
 
 ###
@@ -36,7 +40,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&color=ffe8f8"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&color=ffcde1"  />
 </div>
 
 ###
