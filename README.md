@@ -1,11 +1,11 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=106&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=ffe8f8"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://media.tenor.com/ZKBDtqe2rkwAAAAi/flowers-cherryblossom-pink-gif-png-cute.gif"  />
+  <img height="234" src="https://media.tenor.com/Y003DHfhYLMAAAAi/hh.gif"  />
 </div>
 
 ###
@@ -31,6 +31,12 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=juliaoliv3ira&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&color=ffe8f8"  />
 </div>
 
 ###
