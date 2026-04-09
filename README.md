@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=ffcde1"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=106&section=header&reversal=false&fontSize=300&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=ffcde1"  />
 </div>
 
 ###
@@ -34,7 +34,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juliaoliv3ira&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juliaoliv3ira&radius=16&theme=dracula&area=true&order=5&bg_color=f8f3ed&line=f44f4f&area_color=e9aecc&color=281804&title_color=6fa8dc&point=fdc724" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
